@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  search_github_acc
-//
-//  Created by macbook on 23/7/25.
-//
-
 import UIKit
 
 @main
