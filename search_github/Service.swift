@@ -1,3 +1,10 @@
+//
+//  Service.swift
+//  search_github
+//
+//  Created by Nguyen Duc on 15/07/2025.
+//
+
 import Foundation
 import UIKit
 

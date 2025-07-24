@@ -10,23 +10,10 @@
 		FA7136172E312A6300C83D3F /* search_github_acc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = search_github_acc.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		FA7136292E312A6400C83D3F /* Exceptions for "search_github_acc" folder in "search_github_acc" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = FA7136162E312A6300C83D3F /* search_github_acc */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		FA7136192E312A6300C83D3F /* search_github_acc */ = {
+		FA7136192E312A6300C83D3F /* search_github */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				FA7136292E312A6400C83D3F /* Exceptions for "search_github_acc" folder in "search_github_acc" target */,
-			);
-			path = search_github_acc;
+			path = search_github;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +32,7 @@
 		FA71360E2E312A6300C83D3F = {
 			isa = PBXGroup;
 			children = (
-				FA7136192E312A6300C83D3F /* search_github_acc */,
+				FA7136192E312A6300C83D3F /* search_github */,
 				FA7136182E312A6300C83D3F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				FA7136192E312A6300C83D3F /* search_github_acc */,
+				FA7136192E312A6300C83D3F /* search_github */,
 			);
 			name = search_github_acc;
 			packageProductDependencies = (
@@ -98,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FA7136122E312A6300C83D3F /* Build configuration list for PBXProject "search_github_acc" */;
+			buildConfigurationList = FA7136122E312A6300C83D3F /* Build configuration list for PBXProject "search_github" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -318,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FA7136122E312A6300C83D3F /* Build configuration list for PBXProject "search_github_acc" */ = {
+		FA7136122E312A6300C83D3F /* Build configuration list for PBXProject "search_github" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FA71362D2E312A6400C83D3F /* Debug */,
